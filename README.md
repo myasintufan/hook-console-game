@@ -1,8 +1,10 @@
 # hook-console-game
 puzzle game created with java
-In this  project, ı implement the following game by using JavaFX framework. 
+
+ In this  project, ı implement the following game by using JavaFX framework. 
 In this game, there are lines connected to filled-circles. When a filled-circle is clicked on, then the shape connected to it starts to slide towards to the filled-circle. 
-For example, there exists a long horizontal line and a short vertical line connected to the filled-circle. If the user clicks on the filled-circle, the connected line will start to slide towards to the filled-circle and the length of the vertical line becomes bigger while the length of horizontal line becomes shorter and shorter gradually. 
+
+ For example, there exists a long horizontal line and a short vertical line connected to the filled-circle. If the user clicks on the filled-circle, the connected line will start to slide towards to the filled-circle and the length of the vertical line becomes bigger while the length of horizontal line becomes shorter and shorter gradually. 
 When sliding horizontal line reaches to the vertical line (i.e. connection point), the filled-circle and the part connected to it disappear completely . It should be noted that the thin line connected to the filled circle is irremovable
 
 Semi-Circle 
